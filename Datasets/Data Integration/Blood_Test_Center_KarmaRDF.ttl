@@ -1,0 +1,1342 @@
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,756172" .
+<http://localhost:8080/source/PP042101001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,000795" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Piano terra del Presidio Ospedaliero di Ala. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:00. Si effettuano prelievi anche a bambini sotto i 6 anni, salvo casi particolari. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "12647.52.00" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALA" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Piazza S.Giovanni XXII" .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22001> .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 675859" .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101001> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "24.15.00" .
+
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22002> .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via S. Antonio, 30" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,193329" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "THU" .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "3233.09.00" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,144988" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "2462.28.00" .
+<http://localhost:8080/source/PP042101002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALBIANO" .
+<http://localhost:8080/source/PP042101002> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Gio dalle 7:30 alle 9:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). No punto cassa" .
+<http://localhost:8080/source/PP042101002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mar dalle 7:00 alle 9:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). No punto cassa" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "16307.13.00" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,975733" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,092698" .
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALDENO" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 9:00" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1555.58.00" .
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Florida, 1" .
+<http://localhost:8080/source/PP042101003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22003> .
+<http://localhost:8080/source/PP042101003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101003> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22005> .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ANDALO" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mar e Ven dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni) Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,1637596" .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "70.01.00" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Piazza Paganella, 3" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 231314" .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "27339.16.00" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE - FRI" .
+<http://localhost:8080/source/PP042101004> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,003541" .
+
+<http://localhost:8080/source/PP042101005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 582281" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,9192" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "155.41.00" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Capitelli, 48" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "198.12.00" .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione viene effettuata presso gli sportelli Cassa all'entrata dell'Ospedale Civile. L'ambulatorio prelievi e' posto al secondo livello dell'Ospedale. Orario prelievi: da Lun a Ven dalle 7:30 alle 9:30. Si effettuano prelievi per adulti e bambini anche in eta' inferiore ai 6 anni. Presenza punto cassa aziendale" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ARCO" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22006> .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,8741" .
+<http://localhost:8080/source/PP042101005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101005> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22009> .
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE - THU" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 559500" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Frazione Montagnaga via 4 Novembre, 29" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1776.28.00" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "3976.55.00" .
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,237955" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BASELGA DI PINE'" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Villa Alpina. Orario prelievi: Mar e Gio dalle 7:30 alle 9:00. Prelievi pediatrici: a partire dai 6 anni di eta'. Non presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101006> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,103828" .
+
+<http://localhost:8080/source/PP042101007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,715561" .
+<http://localhost:8080/source/PP042101007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 591042" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22229> .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,917721" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LEDRO" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15340.21.00" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "11936.01.00" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Loc. Bezzecca, 6" .
+<http://localhost:8080/source/PP042101007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE - THU" .
+<http://localhost:8080/source/PP042101007> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Giacomo Cis. Prelievi: Mar e Gio dalle 7:45 alle 9:15 - piano terra. Ritiro referti: da Lun a Ven dalle 9:00 alle 12:30 c/o ufficio amm.vo primo piano. Non si effettuano prelievi pediatrici (sotto i 6 anni). No punto cassa" .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/PP042101008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,4646" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22022> .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione viene effettuata presso lo sportello del punto prelievi situato al secondo piano della palazzina Nuovo edificio del Distretto Bassa Valsugana. L'ambulatorio prelievi e' posto sul medesimo piano, nel locale adiacente allo sportello. Orario prelievi: da Lun a Ven dalle 7:30 alle 9:00. Si effettuano prelievi pediatrici senza limiti di eta' previa valutazione medica. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Vicenza 9" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 755204" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "88.26.00" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BORGO VALSUGANA" .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "55.28.00" .
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101008> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,0568" .
+
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,95871" .
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22025> .
+<http://localhost:8080/source/PP042101009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "13668.54.00" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,817434" .
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:30" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1607.51.00" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Balista, 7" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BRENTONICO" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 395967" .
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - THU" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101009> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP di Brentonico. Lun e Gio dalle 8:00 alle 9:30 Non si effettuano prelievi a bambini di eta' inferiore ai 10 anni si accettano pero' campioni di urina. Struttura accreditata. No punto cassa" .
+<http://localhost:8080/source/PP042101009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:10" .
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0462 242238" .
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "86.51.00" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22050> .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CAVALESE" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,2884" .
+<http://localhost:8080/source/PP042101010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Dossi, 17" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione viene effettuata presso lo sportello dell'ufficio prestazioni-cassa, adiacente all'entrata dell'Ospedale in Via Dossi, 17.  L'ambulatorio prelievi e' posto sul medesimo piano, dopo la portineria. Prelievi pediatrici: per bambini inferiori ai 6 anni presso la Pediatria Ospedale di Cavalese. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:10" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,4551" .
+<http://localhost:8080/source/PP042101010> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "94.04.00" .
+
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "16197.02.00" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CAVEDINE" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 231314" .
+<http://localhost:8080/source/PP042101011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN - FRI" .
+<http://localhost:8080/source/PP042101011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Ospedale, 24" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22053> .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Valle dei Laghi. Mer e Ven dalle 8:00 alle 9:00. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/22053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,971222" .
+<http://localhost:8080/source/22053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9.00" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,009362" .
+<http://localhost:8080/source/PP042101011> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "202.02.00" .
+<http://localhost:8080/source/PP042101011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "FRI" .
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22241> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "3687.46.00" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,220606" .
+<http://localhost:8080/source/PP042101012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "P.za G.Marconi, 7" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Ven dalle 7:30 alle 9:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). No punto cassa" .
+<http://localhost:8080/source/PP042101012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "2967.03.00" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CEMBRA LISIGNAGO" .
+<http://localhost:8080/source/PP042101012> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,175263" .
+
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "16.23" .
+<http://localhost:8080/source/PP042101013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,0323" .
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0463 660257" .
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione viene effettuata presso gli sportelli del Centro Prelievi situati al piano interrato dell'Ospedale a cui si accede dall'ingresso principale in Via Degasperi, 31. L'ambulatorio prelievi e' situato nei locali adiacenti. Orario prelievi: da Lun a Ven dalle 7:30 alle 9:30. Prelievi pediatrici: bambini di eta' inferiore ai 3 anni: previo appuntamento telefonico al numero 0463-660257 dalle 10:00 alle 12:00 dal Lun al Ven - bambini di eta' dai 3 ai 6 anni: senza appuntamento, previa accettazione in corsia preferenziale  - bambini di eta' superiore ai 6 anni: previa accettazione in corsia preferenziale. In caso di prelievo urgente il genitore si puo' recare presso il punto prelievi di Cles senza appuntamento. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22062> .
+<http://localhost:8080/source/PP042101013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "106.08.00" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,3608" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Degasperi, 31" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CLES" .
+<http://localhost:8080/source/PP042101013> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "640.25.00" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,873565" .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22228> .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:30" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "COMANO TERME" .
+<http://localhost:8080/source/PP042101014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "14569.25.00" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via C.Battisti 38 Ponte Arche" .
+<http://localhost:8080/source/PP042101014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,035665" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 701063" .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101014> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi al primo piano del Centro Pluriuso. Orario prelievi: Mer dalle 7:30 alle 8:30. Si effettuano prelievi a partire dai 3 anni di eta'. Presenza di punto cassa aziendale" .
+
+<http://localhost:8080/source/PP042101015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "9980.07.00" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BORGO CHIESE" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:30" .
+<http://localhost:8080/source/PP042101015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,888917" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Rosa dei venti. Orario prelievi: Gio dalle 7:00 alle 9:00. Non si effettuano prelievi pediatrici. Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via C.Battisti, 6" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14860.17.00" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,598207" .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22238> .
+<http://localhost:8080/source/PP042101015> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 621047" .
+
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,274747" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "827.56.00" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "DENNO" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "4625.07.00" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Piazza Cesare Battisti" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,049016" .
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: Gio dalle 8:00 alle 9:30. Prelievi pediatrici: i prelievi ematochimici si eseguono ai bambini di eta' superiore ai 6 anni, previa accettazione in corsia preferenziale. Per i bambini di eta' inferiore ai 6 anni si accettano solo tamponi o campioni colturali vari. Non presenza di punto cassa aziendale." .
+<http://localhost:8080/source/PP042101016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22074> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "THU" .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:30" .
+<http://localhost:8080/source/PP042101016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101016> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 655516" .
+
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,16877" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - THU" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Lun e Gio dalle 8:00 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni)  Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "FOLGARIA" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15325.18.00" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "292.17.00" .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22087> .
+<http://localhost:8080/source/PP042101017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:30" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via C. Battisti, 24" .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 421083" .
+<http://localhost:8080/source/PP042101017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101017> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,916818" .
+
+<http://localhost:8080/source/PP042101018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0463 831217" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "7327.25.00" .
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON & FRI" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22088> .
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "FONDO" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2319.26.00" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,138506" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: Lun dalle 7:30 alle 9:00, Ven dalle 8:00 alle 9:00. Solo pazienti in terapia anticoagulante su appuntamento Tel. 0463 660257. Prelievi pediatrici: i prelievi ematochimici si eseguono ai bambini di eta' superiore ai 6 anni, previa accettazione in corsia preferenziale. Per i bambini di eta' inferiore ai 6 anni si accettano solo tamponi o campioni colturali vari. Non presenza di punto cassa aziendale." .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00 & 8:00 - 9.00" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Cesare Battisti" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,436885" .
+<http://localhost:8080/source/PP042101018> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,269957" .
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "FIRST & THIRD THU IN THE MOUNTH" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,940547" .
+<http://localhost:8080/source/PP042101019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "4510.17.00" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Frazione Gionghi Centro della Salute" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 783495" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15720.47.00" .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Centro della Salute. Orario prelievi: primo e terzo Gio del mese dalle 8:00 alle 9:00. Non si effettuano prelievi pediatrici (sotto i 6 anni). Non presenza di punto cassa aziendale." .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LAVARONE" .
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101019> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22102> .
+<http://localhost:8080/source/PP042101019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,11308" .
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 247044" .
+<http://localhost:8080/source/PP042101020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:15 / 7:30 -9:30" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Dal Lun al Ven dalle 7:30 alle 9:15, Sab dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LAVIS" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI / SAT" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22103> .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "199.28.00" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,138426" .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Filzi, 27" .
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101020> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "2353.06.00" .
+<http://localhost:8080/source/PP042101020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 727815" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22104> .
+<http://localhost:8080/source/PP042101021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "197.27.00" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,009087" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "5099.29.00" .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LEVICO TERME" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:45" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: da Lun a Ven ore 7:30 - 8:45. Prelievi pediatrici: a partire dai 6 anni di eta'. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,305309" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Slucca de Matteoni, 10" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101021> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+
+<http://localhost:8080/source/PP042101022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Ambulatorio Comunale" .
+<http://localhost:8080/source/PP042101022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,323669" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 789635" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LUSERNA" .
+<http://localhost:8080/source/PP042101022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "5405.29.00" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,922499" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22109> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:00" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "THIRD THU IN THE MOUNTH" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: III Gio del mese dalle 7:30 alle 8:00. Non si effettuano prelievi pediatrici (sotto i 6 anni). Non presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101022> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15419.59.00" .
+
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,910061" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22110> .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "5882.34.00" .
+<http://localhost:8080/source/PP042101023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "15177.41.00" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,350194" .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0463 909400" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: Mar, Mer e Ven dalle 8:00 alle 9:00, Lun dalle 8:00 alle 9:00 - solo pazienti in terapia anticoagulante. Prelievi pediatrici: i prelievi ematochimici sono eseguiti ai bambini di eta' superiore ai 6 anni, previa accettazione in corsia preferenziale. Per i bambini di eta' inferiore ai 6 anni si accettano solo tamponi o campioni colturali vari. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MALE'" .
+<http://localhost:8080/source/PP042101023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via 4 Novembre, 8" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON, TUE, WEN, FRI" .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101023> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 231314" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "3627.18.00" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mar e Gio dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,214878" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MEZZOCORONA" .
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22116> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1983.38.00" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Fratelli Grandi, 2" .
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE & THU" .
+<http://localhost:8080/source/PP042101024> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,118358" .
+
+<http://localhost:8080/source/PP042101025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 611243" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22117> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Presso il poliambulatorio. Orario prelievi: dal Lun al Ven dalle 7:30 alle 9:45. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,213364" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via degli Alpini, 7" .
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "171.42.00" .
+<http://localhost:8080/source/PP042101025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,09642" .
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:45" .
+<http://localhost:8080/source/PP042101025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "3602.04.00" .
+<http://localhost:8080/source/PP042101025> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "16364.36.00" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,981276" .
+<http://localhost:8080/source/PP042101026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,851377" .
+<http://localhost:8080/source/PP042101026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE & FRI" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14234.37.00" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mar e Ven dalle 8:00 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni)  Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22123> .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 421083" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MORI" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Giovanni XXIII, 18" .
+<http://localhost:8080/source/PP042101026> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:30" .
+
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0463 750008" .
+<http://localhost:8080/source/PP042101027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione e il prelievo vengono effettuati presso la sede di Distretto al primo piano. Orario prelievi: Gio dalle 8:00 alle 9:00. Prelievi pediatrici: i prelievi ematochimici si eseguono ai bambini di eta' superiore ai 6 anni, previa accettazione in corsia preferenziale. Per i bambini di eta' inferiore ai 6 anni si accettano solo tamponi o campioni colturali vari  Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,758474" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "THU" .
+<http://localhost:8080/source/PP042101027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "12651.14.00" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via dei Baschenis, 6" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,310386" .
+<http://localhost:8080/source/PP042101027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "5219.06.00" .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22137> .
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101027> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PELLIZZANO" .
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22139> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "51.49.00" .
+<http://localhost:8080/source/PP042101028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via S. Pietro 2," .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L'accettazione viene effettuata presso la segreteria dell'ambulatorio prelievi, situata al piano rialzato della palazzina del Distretto Alta Valsugana. L'ambulatorio prelievi e' posto sul medesimo piano, nel locale adiacente allo sportello. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:45. Prelievi pediatrici: a partire dai 6 anni di eta'. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "56.33.00" .
+<http://localhost:8080/source/PP042101028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 515252" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,2449" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,0633" .
+<http://localhost:8080/source/PP042101028> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:45" .
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PINZOLO" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22143> .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Genova, 82" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 501424" .
+<http://localhost:8080/source/PP042101029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "2698.55.00" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE & FRI" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1280.01.00" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,159175" .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Seminterrato della APSP Centro Residenziale A.Collini. Orario prelievi: Mar e Ven dalle 7:30 alle 8:30. Si effettuano prelievi a partire dai 3 anni di eta'. Non presenza di punto cassa aziendale." .
+<http://localhost:8080/source/PP042101029> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,76201" .
+
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mer e Sabato dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa - no bancomat" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15484.58.00" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,042569" .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "720.29.00" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via III Novembre, 10" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,926398" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "POMAROLO" .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 421083" .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22144> .
+<http://localhost:8080/source/PP042101030> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN & SAT" .
+
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SEN JAN DI FASSA" .
+<http://localhost:8080/source/PP042101031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:30" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "11324.33.00" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: da Lun a Ven, dalle 7:30 alle 8:30. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,423312" .
+<http://localhost:8080/source/PP042101031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22250> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0462 761000" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Strada di Pre' de Gejia, 4" .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "7101.12.00" .
+<http://localhost:8080/source/PP042101031> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,678813" .
+
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "10003.12.00" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,599532" .
+<http://localhost:8080/source/PP042101032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: da Lun a Ven, dalle 7:45 alle 8:30. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Degasperi, 12" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "5243.38.00" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,311858" .
+<http://localhost:8080/source/PP042101032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0462 508800" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:45 - 8:30" .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PREDAZZO" .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101032> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22147> .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Rosmini, 5/B" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:45 - 9:15" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RIVA DEL GARDA" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22153> .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 582709" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,890707" .
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14890.07.00" .
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,841631" .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Piano terra del Centro Servizi Sanitari (ex Incompiuta). Orario prelievi: da Lun a Ven dalle 7:45 alle 9:15. Si effettuano prelievi per adulti e bambini anche in eta' inferiore ai 6 anni. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101033> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "14037.11.00" .
+
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,950924" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Questo punto prelievi e' riservato ad utenti di eta' superiore ai 65 anni con difficolta' a raggiungere i principali centri di prelievo. Orario prelievi: tutti i Mar dalle 8:30 alle 9:00 - max 8 utenti al giorno. Per qualsiasi ulteriore informazione rivolgersi al proprio medico di base" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "-" .
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14871.34.00" .
+<http://localhost:8080/source/PP042101034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22135> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "-" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,889594" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Don Chiettini 2" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 802159" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "15858.44.00" .
+<http://localhost:8080/source/PP042101034> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RONZO-CHIENIS" .
+
+<http://localhost:8080/source/PP042101035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "711.05.00" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,042005" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Corso Verona, 4" .
+<http://localhost:8080/source/PP042101035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22161> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 403156" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14768.18.00" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NOT SPECIFY" .
+<http://localhost:8080/source/PP042101035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ROVERETO" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Ospedale S. Maria del Carmine - l'accettazione viene effettuata presso gli sportelli del Centro prelievi dell'Ospedale situato al piano terra, con entrata dalla Porta Carraia in piazza Santa Maria. Gli ambulatori prelievi sono situati nei locali adiacenti. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:30. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101035> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,883398" .
+
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22161> .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 421083" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - SAT" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "74.17.00" .
+<http://localhost:8080/source/PP042101036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,03797" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Dal Lun al Sab dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ROVERETO" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Francesco Paoli, 15" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,887996" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101036> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14844.56.00" .
+<http://localhost:8080/source/PP042101036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,187708" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22172> .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "4320.36.00" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Fraz. Scancio, 26" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mar dalle 7:30 alle 9:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). Non presenza di punto cassa" .
+<http://localhost:8080/source/PP042101037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,258576" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SEGONZANO" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "3174.28.00" .
+<http://localhost:8080/source/PP042101037> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+
+<http://localhost:8080/source/PP042101038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON & WEN" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 803111" .
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via S.Vigilio, 13" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Casa di Riposo S.Vigilio. Orario prelievi: Lun e Mer dalle 7:00 alle 8:30. Si effettuano prelievi a partire dai 3 anni di eta'. Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "12282.31.00" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 8:30" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1779.00.00" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,10398" .
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,736351" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SPIAZZO" .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22179> .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101038> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/PP042101039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - TUE" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: Lun e Gio dalle 7:30 alle 8:30. Si effettuano prelievi a partire dai 3 anni di eta'. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Sette Pievi, 22" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:30" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 331460" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,846926" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "STORO" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22183> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "14160.26.00" .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "9583.53.00" .
+<http://localhost:8080/source/PP042101039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101039> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,574433" .
+
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,524071" .
+<http://localhost:8080/source/PP042101040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,06623" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22240> .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 762009" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "156.23.00" .
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CASTEL IVANO" .
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Borgo Allocco, 2 Strigno" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE & THU" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso A.P.S.P. Redenta Floriani. Struttura accreditata Accesso diretto il Mar e il Gio dalle 7:30 alle 9:00. Informazioni presso la segreteria della APSP (0461/762009) con orario: dalle 8:00 alle 12:00 e dalle 14:00 alle 17:00. Punto cassa presso ospedale di Borgo - nuovo edificio - piano terra. Apertura: dal Lun al Ven dalle 8:00 alle 16:00. Prelievi pediatrici: solo a partire dai 12 anni" .
+<http://localhost:8080/source/PP042101040> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "8745.31.00" .
+<http://localhost:8080/source/PP042101040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PREDAIA" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,324779" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22230> .
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,065975" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "5458.59.00" .
+<http://localhost:8080/source/PP042101041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1110.35.00" .
+<http://localhost:8080/source/PP042101041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "VIA THOMAS A. EDISON, 20" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Anaunia. Orario prelievi: Mer dalle 7:30 alle 9:30. Prelievi pediatrici: i prelievi ematochimici si eseguono ai bambini di eta' superiore ai 6 anni. Per i bambini di eta' inferiore ai 6 anni si accettano solo tamponi o campioni colturali vari. Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0463 467617" .
+<http://localhost:8080/source/PP042101041> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+
+<http://localhost:8080/source/PP042101042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "130.44.00" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "L' accettazione viene effettuata presso lo sportello dell'ufficio Cassa, al piano terra dell'Ospedale di Tione. L'ambulatorio prelievi e' situato nel locale adiacente. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:30. Si effettuano prelievi a partire dai 3 anni di eta'" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TIONE DI TRENTO" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "10,7244" .
+<http://localhost:8080/source/PP042101042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "52.53.00" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22199> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0465 331204" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NOT SPECIFY" .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Ospedale 11" .
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101042> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,0413" .
+
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,177751" .
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Roma 1, Tonadico" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 8:45" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "3008.31.00" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "13869.39.00" .
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22245> .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,831519" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0439 764444" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Primo piano del Poliambulatorio di Tonadico. Orario prelievi: da Lun al Ven, dalle 7:30 alle 8:45. Prelievi pediatrici: si effettuano a partire dai 2 anni. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101043> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+
+<http://localhost:8080/source/PP042101044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "974.46.00" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 903360" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Gocciadoro, 82" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,055726" .
+<http://localhost:8080/source/PP042101044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "ON APPOINTMENT" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Su appuntamento, si eseguono prelievi microbiologici ambulatorialicutanei e da annessi cutanei per coltura di miceti e batteri congiuntivali, auricolari esterni, da ferite e piaghe,tampone vaginale, vagino-rettale, vulvare, cervicale, uretrale, balano-prepuziale Adulti: dal lunedì al venerdì dalle 7.30 alle 9.45, fino ad un massimo di 150 prelievi, Bambini: dal lunedì al venerdì dalle 8.00 alle 9.45, Prelievi microbiologici ambulatoriali (su appuntamento): dal lunedì al venerdì a partire dalle 10.30" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,131951" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2210.11.00" .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "ON APPOINTMENT" .
+<http://localhost:8080/source/PP042101044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101044> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+
+<http://localhost:8080/source/PP042101045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Viale Verona CSS" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:45" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Centro per i Servizi Sanitari, palazzina B. Orario prelievi: da Lun a Ven, dalle 7:30 alle 9:45. Per adulti e bambini a partire dai 6 anni.  Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,0451" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,129" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "13.09" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "53.31.00" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 902265" .
+<http://localhost:8080/source/PP042101045> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "-" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "975.14.00" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,055754" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2212.24.00" .
+<http://localhost:8080/source/PP042101046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "-" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,132084" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Largo Medaglie d'Oro 9 Santa Chiara" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Laboratorio di microbiologia e Virologia In tale laboratorio vengono effettuati prelievi microbiologici particolari: squame ed annessi cutanei, emocoltura, tamponi congiuntivali ed auricolari (orecchio esterno), materiali biologici vari su specifica indicazione clinica. Le accettazioni ed i prelievi si effettuano senza prenotazione, ad eccezione di analisi particolari specificate nelle Carte dei servizi dei singoli Laboratori dipartimentali." .
+<http://localhost:8080/source/PP042101046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 903270" .
+<http://localhost:8080/source/PP042101046> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,118724" .
+<http://localhost:8080/source/PP042101047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 830180" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1540.37.00" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso complesso Tridente. Dal Lun al Sab dalle 7:30 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Pranzelores, 68" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - SAT" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1989.44.00" .
+<http://localhost:8080/source/PP042101047> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,089677" .
+
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI, SAT" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,07186" .
+<http://localhost:8080/source/PP042101048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso Palazzo Giulia. Dal Lun al Ven dalle 7:00 alle 10:00, Sab dalle 7:30 alle 10:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Gazzoletti, 15 Laboratorio Adige" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 10:00, 7:30 - 10:00 " .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,122106" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "165.46.00" .
+<http://localhost:8080/source/PP042101048> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2046.06.00" .
+<http://localhost:8080/source/PP042101048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2035.56.00" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,063952" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via XXIV Maggio, 2/3" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1111.52.00" .
+<http://localhost:8080/source/PP042101049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,121496" .
+<http://localhost:8080/source/PP042101049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 231314" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Dal Lun al Sab dalle 7:30 alle 9:30.  Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:30" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - SAT" .
+<http://localhost:8080/source/PP042101049> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via  Malta, 16 Villa Igea" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,1279" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "56.17.00" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "32.19.00" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso Villa Igea. Dal Lun al Ven dalle ore 7:30 alle 9:45 per i prelievi e dalle 10:00 alle 12.45 per il ritiro referti. Non si effettuano prelievi pediatrici (sotto i 6 anni), arteriosi e curve da carico. Presenza di punto cassa aziendale" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 904390" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:45" .
+<http://localhost:8080/source/PP042101050> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,0617" .
+
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Margherita Grazioli (Povo - TN). Ambulatorio, accettazione e cassa, ritiro referti - piano rialzato. Prelievi: Mar e Gio dalle 7:00 alle 9:00. Consegna referti: dal Mar al Ven dalle 8:00 alle 9:00 e dalle 17:30 alle 18:30. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,160766" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 810688" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE & THU" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2690.26.00" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1187.41.00" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via della Resistenza, 63 Frazione Povo" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/PP042101051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 9:00" .
+<http://localhost:8080/source/PP042101051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,068501" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101051> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Fraz. Raossi" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1348.48.00" .
+<http://localhost:8080/source/PP042101052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1933.31.00" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALLARSA" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 9:00" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22210> .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN" .
+<http://localhost:8080/source/PP042101052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,115351" .
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NOT SPECIFY" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Punto prelievi presso APSP Don Giuseppe Cumer (c/o casa Ex Enal). Mer dalle 7:00 alle 9:00. Struttura accreditata. No punto cassa" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 869145" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,78228" .
+<http://localhost:8080/source/PP042101052> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "GIOVO" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "WEN" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via S. Antonio, 2 Verla di Giovo" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "2537.31.00" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,157125" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22092> .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Mer dalle 7:30 alle 9:00. Struttura privata accreditata: Laboratorio Adige. Non si effettuano prelievi pediatrici (sotto i 6 anni). No punto cassa" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,151591" .
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 9:00" .
+<http://localhost:8080/source/PP042101053> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "2664.45.00" .
+
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Orario prelievi: martedì dalle 8.00 alle 9.00. Solo per pazienti in terapia anticoagulante e pazienti per emocromo in chemioterapia.Le accettazioni ed i prelievi si effettuano senza prenotazione, ad eccezione di analisi particolari specificate nelle Carte dei servizi dei singoli Laboratori dipartimentali." .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "3333.01.00" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALTOPIANO DELLA VIGOLANA" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 848416" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "133.34.00" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,199321" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via San Giorgio, 3 Vigolo Vattaro" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,005254" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NOT SPECIFY" .
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22236> .
+<http://localhost:8080/source/PP042101054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "TUE" .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101054> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "NOT SPECIFY" .
+<http://localhost:8080/source/PP042101054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Dal Lun al Ven dalle 8:00 alle 9:30. Struttura privata accreditata: Laboratorio Druso. Non si effettuano prelievi pediatrici (sotto i 6 anni). Presenza di punto cassa" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:30" .
+<http://localhost:8080/source/PP042101055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,032395" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22222> .
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "550.55.00" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,914035" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Damiano Chiesa, 19" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15278.55.00" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 421083" .
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - FRI" .
+<http://localhost:8080/source/PP042101055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VILLA LAGARINA" .
+<http://localhost:8080/source/PP042101055> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "YES" .
+
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,933211" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15598.31.00" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1579.48.00" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CALLIANO" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "-" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,094128" .
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via 3 Novembre 35/2" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "-" .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 834250" .
+<http://localhost:8080/source/PP042101056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22035> .
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101056> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Solo per utenti di età superiore a 65 anni con difficoltà a raggiungere i principali centri di prelievo. Orari mercoledì 8.30 - 9.30, martedì 10.15 - 10.45 solo raccolta per screening sangue occulto" .
+
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:30 - 10:00" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22161> .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Presso Casa di Cura Solatrix. Orari: da lunedì a sabato dalle 7,30 alle 10,00" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "772.01.00" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 491336" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via Bellini, 11" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON - SAT" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,897836" .
+<http://localhost:8080/source/PP042101057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15008.56.00" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ROVERETO" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101057> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,045661" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/PP042101058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,063544" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "45,916594" .
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VOLANO" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "-" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via 3 Novembre, 5" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Solo per utenti di età superiore a 65 anni con difficoltà a raggiungere i principali centri di prelievo. Orari: venerdì 8.15 - 9.30" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22224> .
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/PP042101058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "-" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "15321.34.00" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1070.04.00" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0464 461644" .
+<http://localhost:8080/source/PP042101058> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CAPRIANA" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,339394" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "4429.47.00" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "SECOND & FOURTH THU" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0462 816013" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Piazza Roma, 2" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Ambulatorio Infermieristico e PP Orari: secondo e quarto giovedì del mese dalle 8,00 alle 9.00 l¿impegnativa viene inviata via fax da parte dell¿utente, dopodiché l¿accettazione viene effettuata presso lo sportello dell¿ufficio Cassa ¿ Ticket della sede distrettuale di Predazzo. L¿utente provvederà a consegnare l¿impegnativa originale all¿atto del prelievo." .
+<http://localhost:8080/source/PP042101059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,263027" .
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22040> .
+<http://localhost:8080/source/PP042101059> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "5667.34.00" .
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "4217.30.00" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALFLORIANA" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,342535" .
+<http://localhost:8080/source/PP042101060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+<http://localhost:8080/source/PP042101060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "FIRST & THIRD THU IN THE MOUNTH" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "-" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "localita Casatta di Valfloriana" .
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "8:00 - 9:00" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Ambulatorio Infermieristico e PP Orari: Primo e terzo giovedì del mese dalle 8.00 alle 9.00 l¿impegnativa viene inviata via fax da parte dell¿utente, dopodiché l¿accettazione viene effettuata presso lo sportello dell¿ufficio Cassa ¿ Ticket della sede distrettuale di Predazzo. L¿utente provvederà a consegnare l¿impegnativa originale all¿atto del prelievo." .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22209> .
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,25029" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0462 910123" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101060> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "5719.55.00" .
+
+<http://localhost:8080/source/PP042101061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_open_times_GID-300051_Type-300004> "7:00 - 9:30" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_Organization_telecom_GID-300027_Type-300004> "0461 220077" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_longitude_point_GID-46270_Type-300004> "1174.28.00" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point_GID-300023_Type-300004> "46,09067" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_latitude_point_GID-46264_Type-300004> "1557.10.00" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_cashiers_desk_GID-300052_Type-300004> "-" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point_GID-300049_Type-300004> "11,069808" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_Organization_address_GID-300036_Type-300004> "Via di Coltura, 138 presso RSA \"Casa Famiglia\", Cadine" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_open_days_GID-300057_Type-300004> "MON, WEN, FRI" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_locates_in_GID-300021_Type-300004> <http://localhost:8080/source/22205> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample_GID-300054_Type-300004> "NO" .
+<http://localhost:8080/source/PP042101061> <http://knowdive.disi.unitn.it/etype#has_note_GID-34863_Type-300004> "Prelievi e ritiro referti: lunedì mercoledì e venerdì 7.00 - 9.30. Non si accettano pazienti di età inferiore ai 6 anni. Le accettazioni ed i prelievi si effettuano senza prenotazione, ad eccezione di analisi particolari specificate nelle Carte dei servizi dei singoli Laboratori dipartimentali." .
+<http://localhost:8080/source/PP042101061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/PP042101061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center_GID-300004> .
+
