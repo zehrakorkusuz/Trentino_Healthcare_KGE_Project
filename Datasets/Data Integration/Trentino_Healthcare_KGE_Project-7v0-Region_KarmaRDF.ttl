@@ -1,0 +1,400 @@
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_id_asl_GID-300066_Type-46452> "101" .
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_id_region_GID-300062_Type-46452> "42" .
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_id_province_GID-300050_Type-46452> "TN" .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALA" .
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_addressCountry_GID-300060_Type-46452> "ITALY" .
+<http://localhost:8080/source/22001> <http://knowdive.disi.unitn.it/etype#has_addressRegion_GID-300067_Type-46452> "PROV. AUTON. TRENTO" .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22002> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALBIANO" .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22003> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALDENO" .
+
+<http://localhost:8080/source/22235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22235> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALTAVALLE" .
+<http://localhost:8080/source/22235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22236> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ALTOPIANO DELLA VIGOLANA" .
+<http://localhost:8080/source/22236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22005> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ANDALO" .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22006> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ARCO" .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22007> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "AVIO" .
+<http://localhost:8080/source/22007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22009> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BASELGA DI PINÈ" .
+<http://localhost:8080/source/22009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22017> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BLEGGIO SUPERIORE" .
+<http://localhost:8080/source/22017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22238> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BORGO CHIESE" .
+
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22022> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BORGO VALSUGANA" .
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22025> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "BRENTONICO" .
+
+<http://localhost:8080/source/22029> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CADERZONE TERME" .
+<http://localhost:8080/source/22029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22035> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CALLIANO" .
+
+<http://localhost:8080/source/22038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22038> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CANAL SAN BOVO" .
+
+<http://localhost:8080/source/22039> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CANAZEI" .
+<http://localhost:8080/source/22039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22040> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CAPRIANA" .
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22041> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CARANO" .
+
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22240> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CASTEL IVANO" .
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22048> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CASTELLO TESINO" .
+
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22050> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CAVALESE" .
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22241> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CEMBRA LISIGNAGO" .
+
+<http://localhost:8080/source/22061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22061> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CIVEZZANO" .
+
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22062> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "CLES" .
+<http://localhost:8080/source/22062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22228> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "COMANO TERME" .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22074> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "DENNO" .
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22079> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "DRO" .
+
+<http://localhost:8080/source/22087> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "FOLGARIA" .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22088> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "FONDO" .
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22092> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "GIOVO" .
+
+<http://localhost:8080/source/22095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22095> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "GRIGNO" .
+<http://localhost:8080/source/22095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22098> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ISERA" .
+<http://localhost:8080/source/22098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22102> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LAVARONE" .
+
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22103> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LAVIS" .
+
+<http://localhost:8080/source/22229> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LEDRO" .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22104> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LEVICO TERME" .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22109> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "LUSERNA" .
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22110> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MALÈ" .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22116> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MEZZOCORONA" .
+<http://localhost:8080/source/22116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22117> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/22117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22118> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MOENA" .
+<http://localhost:8080/source/22118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22123> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "MORI" .
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22128> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "NOMI" .
+<http://localhost:8080/source/22128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22136> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PEIO" .
+
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22137> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PELLIZZANO" .
+<http://localhost:8080/source/22137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22139> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22234> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PIEVE DI BONO-PREZZO" .
+<http://localhost:8080/source/22234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22142> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PIEVE TESINO" .
+<http://localhost:8080/source/22142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22143> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PINZOLO" .
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22144> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "POMAROLO" .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22244> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PORTE DI RENDENA" .
+<http://localhost:8080/source/22244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22145> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "POZZA DI FASSA" .
+
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22230> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PREDAIA" .
+<http://localhost:8080/source/22230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22147> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PREDAZZO" .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22245> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22150> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RABBI" .
+<http://localhost:8080/source/22150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22153> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RIVA DEL GARDA" .
+<http://localhost:8080/source/22153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22156> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RONCEGNO TERME" .
+<http://localhost:8080/source/22156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22135> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "RONZO-CHIENIS" .
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22161> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ROVERETO" .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22171> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SCURELLE" .
+<http://localhost:8080/source/22171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22172> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SEGONZANO" .
+
+<http://localhost:8080/source/22250> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SEN JAN DI FASSA" .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22174> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SIROR" .
+<http://localhost:8080/source/22174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22179> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "SPIAZZO" .
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22183> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "STORO" .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22183> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "STORO" .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22196> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TESERO" .
+<http://localhost:8080/source/22196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22199> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TIONE DI TRENTO" .
+
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22205> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "TRENTO" .
+<http://localhost:8080/source/22205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/22232> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALDAONE" .
+<http://localhost:8080/source/22232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22209> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALFLORIANA" .
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22210> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALLARSA" .
+
+<http://localhost:8080/source/22248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22248> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VALLELAGHI" .
+<http://localhost:8080/source/22248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22217> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VIGO DI FASSA" .
+<http://localhost:8080/source/22217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22222> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VILLA LAGARINA" .
+<http://localhost:8080/source/22222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+<http://localhost:8080/source/22224> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "VOLANO" .
+
+<http://localhost:8080/source/22226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22226> <http://knowdive.disi.unitn.it/etype#has_town_GID-300025_Type-46452> "ZIANO DI FIEMME" .
+<http://localhost:8080/source/22226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region_GID-46452> .
+<http://localhost:8080/source/22226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Anything> .
+
