@@ -1,0 +1,1094 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/andreamoro/ontologies/2022/10/untitled-ontology-24#"
+     xml:base="http://www.semanticweb.org/andreamoro/ontologies/2022/10/untitled-ontology-24"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:etype="http://knowdive.disi.unitn.it/etype#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/andreamoro/ontologies/2022/10/untitled-ontology-24"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#isEtype -->
+
+    <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#isEtype"/>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#namespace -->
+
+    <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#namespace"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_goes_to -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_goes_to">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_lives_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_lives_in">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_locates_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_locates_in">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_part_of -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_part_of">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Everything"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_provide_service_to -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_provide_service_to">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Anti_Drug_Clinic"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Community_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Dialysis_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Diurnal_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Family_Counselling"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Hospice"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Hospital"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Laboratory"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Mental_Health_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Multiple_Scelorsis_Clinic"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Polyclinic"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Province_Healthcare_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Psychiatric_Residence"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Public_Social_Service_Company"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Thermal_Bath"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Treatment_Center"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_works_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_works_in">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_CommunityCenter_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_CommunityCenter_type">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Community_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_DiurnalCenter_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_DiurnalCenter_type">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Diurnal_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Organization_address -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Organization_address">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Organization_identifier -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Organization_identifier">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></etype:namespace>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Organization_name -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Organization_name">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Organization_telecom -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Organization_telecom">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_active -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_active">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_address -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_address">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_birthDate -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_birthDate">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_gender -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_gender">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_identifier -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_identifier">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_maritalStatus -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_maritalStatus">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_name -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_name">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Patient_telecom -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Patient_telecom">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Patient"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_active -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_active">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_address -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_address">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_birthDate -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_birthDate">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_gender -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_gender">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_identifier -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_identifier">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_name -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_name">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Practitioner_telecom -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Practitioner_telecom">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Practitioner"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>http://hl7.org/fhir/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_addressCountry -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_addressCountry">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>https://schema.org/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_addressRegion -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_addressRegion">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace>https://schema.org/</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_assistance_type_ita -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_assistance_type_ita">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_cashiers_desk -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_cashiers_desk">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_decimal_degree_latitude_point">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_decimal_degree_longitude_point">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_e_mail -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_e_mail">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_facilities_relation_type_ita -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_facilities_relation_type_ita">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_facilities_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_facilities_type">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_fax -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_fax">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_asl -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_asl">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_assistance_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_assistance_type">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_facilities -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_facilities">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_parapharmacy -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_parapharmacy">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_province -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_province">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_region -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_region">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id_town -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id_town">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_latitude_point -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_latitude_point">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_longitude_point -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_longitude_point">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_note -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_note">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_open_date -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_open_date">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_open_days -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_open_days">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_open_times -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_open_times">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_pediatric_boold_sample">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_postal_code -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_postal_code">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_town -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_town">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_unit_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_unit_type">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_unit_type_ita -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_unit_type_ita">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_vat_number -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_vat_number">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_web_site -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_web_site">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Anti_Drug_Clinic -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Anti_Drug_Clinic">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Anything -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Anything"/>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Community_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Community_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Dialysis_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Dialysis_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Diurnal_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Diurnal_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Everything -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Everything">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Family_Counselling -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Family_Counselling">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Hospice -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Hospice">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Hospital -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Hospital">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Laboratory -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Laboratory">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Mental_Health_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Mental_Health_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Multiple_Scelorsis_Clinic -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Multiple_Scelorsis_Clinic">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locates_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://hl7.org/fhir/</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locates_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Anti_Drug_Clinic"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Community_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Dialysis_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Diurnal_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Family_Counselling"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Hospice"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Hospital"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Laboratory"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Mental_Health_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Multiple_Scelorsis_Clinic"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Polyclinic"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Province_Healthcare_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Psychiatric_Residence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Public_Social_Service_Company"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_provide_service_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Thermal_Bath"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://hl7.org/fhir/</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locates_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://hl7.org/fhir/</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Patient -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Patient">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_goes_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_goes_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_goes_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_lives_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://hl7.org/fhir/</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Polyclinic -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Polyclinic">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Practitioner -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Practitioner">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locates_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_works_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Blood_Test_Center"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_works_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_works_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Parapharmacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fhir: &lt;http://hl7.org/fhir/&gt;</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Province_Healthcare_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Province_Healthcare_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Psychiatric_Residence -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Psychiatric_Residence">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Public_Social_Service_Company -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Public_Social_Service_Company">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Region -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Region">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Anything"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_part_of"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Everything"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://schema.org/</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Thermal_Bath -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Thermal_Bath">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Treatment_Center -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Treatment_Center">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Organization_Healthcare_Facilities"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <etype:namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ds</etype:namespace>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
