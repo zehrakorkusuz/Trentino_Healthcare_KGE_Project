@@ -1,0 +1,40 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b295922f-10d9-48e7-a588-a344b860b1bc>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "Italian" , "English" ;
+        schema:contactType        "email" ;
+        schema:email              "andrea.moro@studenti.unitn.it" , "zehra.korkusuz@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Project/473c9056-8d89-4965-b8a3-f60e7c020216>
+        rdf:type           foaf:Project ;
+        dct:description    "A service that lays out the complete healthcare facilities available in the Trentino region that helps the patients discover the most suitable options by covering end-to-end healthcare services based on the individual's background and health status, symptoms, complaints, and preventive medicine needs.\n\nDoI:  Azienda Provinciale Servizi Sanitari Trento (Healthcare Service Provider Trento District) leveraging the data sources of Parapharmacy, Healthcare Facilities and Blood Test Center between 2014 and 2016. " ;
+        dct:identifier     "kge" ;
+        dct:title          "Trentino Healthcare Knowledge Graph" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b295922f-10d9-48e7-a588-a344b860b1bc> ;
+        foaf:homepage      "https://zehrakorkusuz.github.io/\n" .
