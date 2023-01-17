@@ -1,0 +1,48 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/a4594104-e8a3-4244-8f62-2e64f181828d>
+        rdf:type        dcat:Distribution ;
+        dct:identifier  "Inception Sheet" ;
+        dcat:accessURL  "https://docs.google.com/spreadsheets/d/1V2dX1IdFSsGnKFoDK2SBi2NVgGGWldkl/edit?usp=sharing&ouid=102432270273548403143&rtpof=true&sd=true"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/dcbd2671-2f25-4384-896c-946272a4d4d1>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2022-11-10T16:47:33Z"^^xsd:dateTime ;
+        dct:description    "The scenarious, CQs and competency questions are described in the table. Scenarios involve our experience at the hospital as an observer for 1 year. Personas are designed to represent the population of the Trento region and characteristics of the population and CQs to cover the most of the cases." ;
+        dct:identifier     "Inception1" ;
+        dct:title          "Purpose Formalization Sheet " ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b295922f-10d9-48e7-a588-a344b860b1bc> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/a4594104-e8a3-4244-8f62-2e64f181828d> ;
+        dcat:keyword       "healthcare" ;
+        dcat:theme         "healthcare"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b295922f-10d9-48e7-a588-a344b860b1bc>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "Italian" , "English" ;
+        schema:contactType        "email" ;
+        schema:email              "andrea.moro@studenti.unitn.it" , "zehra.korkusuz@studenti.unitn.it" .
